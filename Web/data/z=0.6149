@@ -1,0 +1,25 @@
+HE0439-5254 / z = 0.61495
+-----------------------------------
+* Alternate name for sightline - J044011.90-524818.0
+
+* Our inferences based on systemplots
+- pLLS with good constraint on HI (4 components)
+- 4 component also seen in C III, O III, N III (low S/N ?)
+- C II 1036 shows two components
+- has O II, O III,  O IV, O VI
+- also sulfur lines
+- O VI has a different profile compared to C III and O III
+- Proper line measurements is not going to be easy, but the strong O VI may have something interesting to tell.
+- Highlight is the excellent quality UVES spectrum which shows narrow and unsaturated Mg II absorption in two components. There is also        weak Fe II 2382, 2600 in the central component. These can provide excellent constrain while fitting the low ions in COS. 
+
+* From prior works:
+-log N(HI) =16.28 ± 0.04  (Lehner et al. 2013,Fox et al. 2013)
+-log N(OIV) =14.84 ± 0.03 (Lehner et al. 2013,Fox et al. 2013)
+-[X/H] = -0.3 ± 0.05 (Lehner et al. 2013, CCC I, CCC II)
+-logU=-2.7 (Lehner et al. 2013)
+-mean of the individual component fit results is considered in the above papers for HI and low ionization ions column densities.
+
+* Galaxies: No mention of galaxies in any of the papers.
+* Highlights of this absorber: very strong and broad O VI. Two separate low ionization clouds as clearly seen in the UVES Mg II.
+* 3 galaxies within 500 km/s, within 50 kpc (high SFR ~ 10 solar mass / yr, low mass, i = 63 degree GALFIT)
+
