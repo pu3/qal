@@ -1,0 +1,16 @@
+PKS0232-04 / z = 0.73891
+---------------------------------
+*Our inferences
+- Mathin has already done line measurements and a preliminary PIE analysis of this absorber finding evidence for multiphase gas
+- There is detection of O II, O III, O IV, and O VI 1031 is in the low S/N part of COS data. O VI 1037 is out of coverage. Mathin has fitted it with a single broad component. Can't do better than that, it looks like. The O VI cannot come from the same phase as O II, C II, Mg II (Keck) etc.  
+* From prior works:
+log HI = 16.72 ± 0.02
+log C(VI) =14.16 ± 0.08 (Cooksey et al. 2010)
+log N(OIV) =14.2 ± 0.2 (Bielby et al. 2018)
+b(OIV) = 68 ± 20 km/s (Bielby et al. 2018)
+
+- STIS spectrum (which we are yet to acquire) shows C IV. Cooksey et al. 2010 in her C IV survey have found the C IV associated with this absorber in the STIS spectrum. Strong C IV, but not so great looking from the point of view of understanding the component structure. Cooksey et al. has measurement on integrated C IV column density.
+- Keck data shows Mg II doublet - provides an excellent constraint on the redshift of the absorber and also the b-parameter of low ions in COS
+- Galaxy part of this is fairly well done by Bielby et al. (2019) - which is a study of O VI absorbers along this sightline. The paper talks about galaxies associated with each O VI absorber (including the z = 0.73891). They have used WFC3 broadband image to identify the location of extended sources in the field, and have used VLT-MUSE IFU and grism spectroscopy using HST to establish the redshift of those extended sources. They find 5 galaxies near the absorber, but none within 680 km/s. They mention that there is no MUSE coverage for this  absorber redshift. The redshifts of the galaxies therefore solely come from low resolution grism data from HST. The redshift uncertainties are of the order of 680 km/s approx, and hence Bielby et al. say that the lack of proximate galaxies (within 600 km/s) has to be considered with this uncertainty in mind.
+- From Bielby et al. it looks like this pLLS - O VI absorber lives in a group environment.
+- VERDICT: Absorption line analysis NO ONE had done. There is excellent COS - HIRES - UVES - STIS data. Optical gives Mg II. STIS gives C IV (Cooksey et al.). O VI measurements can be compared with Bielby et al.

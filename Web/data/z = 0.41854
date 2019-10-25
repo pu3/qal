@@ -1,0 +1,20 @@
+HE 1003+0149 / z = 0.41854
+------------------------------------
+* Alternate name for sightline - J100535.25+013445.5
+
+* Our inferences
+- Has H I in three distinct clouds. The central cloud is a pLLS.
+- The pLLS has unsaturated metal lines to go with it.
+- UVES data has Mg II doublets detected. The spectrum is of low S/N, but Mg II is clear and single component.
+- No O VI is detected.
+- SDSS shows two galaxies within 10 Mpc and 1000 km/s, but these galaxies are at 2 - 4 Mpc separation, hence unlikely to be tracing CGM of those galaxies.
+- X shooter data is available 3000 A to 2.5 micron with spectral resolution of R ~ 7400. We are yet to check on whether the X-shooter data for this sightline is of use.
+
+* From prior works:
+log N(HI) =16.89 ± 0.04  (CCC I, CCC II,N. Tejos et al.(2018))
+[X/H] = −1.08 ± 0.06 (CCC I, CCC II)
+logU=−3.07 ± 0.3 (CCC I, CCC II)
+[C/α]=−0.36 ± 0.12 (CCC I, CCC II)
+* Galaxies: No mention of galaxies in any of the papers.
+* 3 galaxies within 500 km/s, all low mass and moderately low SFR, project sep = 120 - 130 kpc.
+

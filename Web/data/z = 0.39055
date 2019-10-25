@@ -1,0 +1,14 @@
+TEX0206-0438 / z = 0.39055
+-----------------------------------
+*Alternate name is FIRST-J020930.7-043826
+
+logN(HI)= 18.00±0.2(Stevans et.al.) 19.00±0.12(Muzahid et.al.+15) 18.87±0.03 (Tejos et al.+14)
+b=49 km/s(Stevans et.al.) 34±1(Tejos et.al.)
+b(impact parameter)=65 kpc(Dutta et.al.)
+
+
+* Muzahid et al. (2015) - DLA + H2 paper - has HI column density. No metal line information - no galaxy information given
+* HI is sub-DLA. No molecular hydrogen detected in Muzahid et al (2015)
+* Tejos et al. and Finn et al. - study these two papers (same group of authors) to see what has been done for absorber and galaxies
+* MUSE: 2 galaxies @ 104 kpc (SFR = 0.25 M-sun/yr, 10^10 stellar mass, 60 deg inclination wrt plane of sky, QSO sightline probing 40 degree above the disk plane of this galaxy)  @ 9 kpc (low mass galaxy, 10^6 stellar mass, SFR = 0.01 M-sun/yr)
+(Speculation: Bulk of the OVI from the more massive 104 kpc projected separation, and the sub DLa from the dwarf companion at 9 kpc projected separation. Multiphase could mean multi-halo / multi-galaxy)

@@ -1,0 +1,21 @@
+HE 1003+0149 / z = 0.83943
+------------------------------------
+* Alternate name for sightline - J100535.25+013445.5
+
+* Our inferences 
+- metal ions detected are: N III, O III, O IV, O V.
+- O VI is outside the wavelength coverage (check STIS data for this, E230M might cover the O VI line at 1896 A)
+- COS data covers Ne VIII - looks like a non-detection, though check Ne VIII 770 - could it be a low significance detection
+- UVES data shows that Mg II is a non-detection, consistent with the non-detections of C II, O II in COS
+
+* From prior works:
+-log N(HI) =16.11 ± 0.03 (N. Tejos et al.(2018))
+-for z = 0.837390 which is at -400 km/s 
+-log N(HI) =16.36 ± 0.02  (CCC I, CCC II,N. Tejos et al.(2018))
+-[X/H] = −1.90 ± 0.25 (CCC I, CCC II)
+-logU=−−2.34 ± 0.28 (CCC I, CCC II)
+* Galaxies: No mention of galaxies in any of the papers.
+* CCC I and II contain line measurement and metallicity. for the absorber at v = -400 km/s not for the one at 0 km/s .
+* Finn et al. - deal with O VI - galaxy association. Their galaxy sample includes SDSS, 2dFGRS, GAMA, VVDS and a host of other surveys.
+* Stronger HI at v = -400 km/s with lower column density of metals.The lower HI at v = 0 km/s carries more metals. O III, O IV is unsaturated for the v = - 400 km/s.
+* 3 galaxies all beyond 180 kpc.
