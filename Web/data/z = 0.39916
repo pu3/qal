@@ -1,0 +1,34 @@
+PB 6291 / z = 0.39916
+----------------------------
+* From prior works:
+logN(HI)=16.88±0.06
+* Lensed QSOs. This is Q0107-25 (B).
+* Sowgat has done this, and the absorber towards Q0107-25(A) together well.
+* Sowgat has sent draft of this. Not much new to do.  
+
+*From our work:
+z(QSO) = 0.956 (Panov and Dimitrov, “Study of Possible Local Quasars II. A Sample of 225 QSOs.”)
+
+COS data: (1132.59, 1801.62)
+UVES data: (3281.93, 4562.88) & (4583.06, 6686.42)
+HIRES data : no data
+
+Measurements on z_abs = 0.39916
+................................
+
+Detections: H I, O VI, C III, N III, Si III, C II, O III
+Non-detections:  Si II, Mg II, N II, N V, S II, S III, S VI, Fe II, Fe III
+
+Remarks: The UVES data is not of excellent S/N. There is no detection of Mg II, which is consistent with non-detection of Si II, N II and weak C II. Also, O II has some level of contamination which makes this line ambiguous but AOD vs velocity plot somewhat confirms that the line is not O II. For C III, Si III there could be mild levels of saturation at the line core as indicated by the 0.1 dex lower AOD column density compared to VP fit. Separate profile fits to C III, N III, O III and Si III yield similar column densities when compared with a simultaneous fit to the four lines of C III, N III, O III and Si III, though O III could be off by ~20 km/s from C III, N III and Si III.
+
+In simultaneous fit of Lyman series lines, Ly-6 was excluded as it suffers from severe contamination. Lyman series lines only till 916.4 Angstrom, were considered. From VP fit, we get the column density of H I as 16.82 ± 0.02 cm-2 dex and 16.83 dex cm-2 (approx.) from optical depth measurement, visually. 
+
+C II 903.6 and 903.9 lines appear too narrow, whereas C II 1036 is weaker and broader. The initial guess for VP fitting is crucial. Fit may yield unrealistically small b-values if your initial guess is too low. Issue sorted.
+
+O VI lines have larger b parameter than that of O III. 
+
+No presence of iron and sulphur were found.
+
+*Galaxy information:
+# 2 galaxies at 50 kpc and 180 kpc.
+
